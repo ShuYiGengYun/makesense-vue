@@ -1,0 +1,17 @@
+:root{
+    --dark--theme--first--color: #171717;
+    --dark--theme--second--Color: #282828;
+    --dark--theme--third--Color: #4c4c4c;
+    --dark--theme--forth--Color: #262c2f;
+
+    --primary--color: #2af598;
+    --secondary--color: #009efd;
+
+    --top--navigation--bar--height: 35px;
+    --state--bar--height: 2px;
+    --side--navigation--bar--companion--width: 23px;
+    --side--navigation--bar--content--width: 300px;
+    --editor--bottom--navigation--bar--height: 40px;
+    --editor--top--navigation--bar--height: 40px;
+    --toolbox--width: 50px;
+}
