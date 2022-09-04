@@ -10,5 +10,10 @@
 </template>
 
 <style scoped>
-
+  .app-container{
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(to top right, var(--primary--color), var(--secondary--color));
+    background-size: 400% 400%;
+  }
 </style>
